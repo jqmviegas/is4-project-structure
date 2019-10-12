@@ -65,14 +65,13 @@ If you have never used Git, you will have to follow the following steps:
 
 1. Register on [GitHub](https://github.com)
 2. Download and install [GitHub Desktop](https://desktop.github.com/)
-3. Create a repository on [GitHub](https://github.com), make sure to create a private repository
-4. Open the GitHub Desktop software and login with your GitHub credentials
-5. Go to: File -> Clone repository ...
-6. Select your newly created GitHub repository and choose the directory you want to save it on
-7. Clone!
-8. Go to [IS4 Project Structure Repository](https://github.com/jqmviegas/is4-project-structure) and do: Clone or download -> Download ZIP
-9. Copy the files inside the zip to the directory you chose to save your repository, this way your repository gets the project structure
-10. Commit and push your changes to Git
+3. Go to [IS4 Project Structure Repository](https://github.com/jqmviegas/is4-project-structure) and click on **Use this template**
+4. Give a name to your repository and make sure you make it private
+5. Open the GitHub Desktop software and login with your GitHub credentials
+6. Go to: File -> Clone repository ...
+7. Select your newly created GitHub repository and choose the directory you want to save it on
+8. Clone!
+9.  Work, commit and push changes everyday!
 
 For additional information on using Git and GitHub:
 
